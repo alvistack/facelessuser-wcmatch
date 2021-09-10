@@ -1,0 +1,3 @@
+python-wcmatch source: no-debian-changes
+python-wcmatch source: source-contains-prebuilt-windows-binary
+python-wcmatch source: source-package-encodes-python-version
