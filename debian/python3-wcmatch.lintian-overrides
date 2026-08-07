@@ -1,0 +1,4 @@
+python3-wcmatch: copyright-without-copyright-notice
+python3-wcmatch: initial-upload-closes-no-bugs
+python3-wcmatch: no-manual-page
+python3-wcmatch: zero-byte-file-in-doc-directory
